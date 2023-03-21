@@ -1,0 +1,2 @@
+Hi, this is an extension or better version of the rock paper scissors project i have done earlier.
+I didn't do any git status updates because i had to finish it fast and in my oppinion i knew what i did here. Thanks for reading enjoy the code!
